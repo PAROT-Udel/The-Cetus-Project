@@ -57,7 +57,7 @@ public class Driver {
     // public static int currentBuild = 120605;
 
     /** version number */
-    public static String currentVersion = "1.4.4";
+    public static String currentVersion = "3.0.0-beta.1";
 
     /** URL to build number */
     public static String cetusURL = "https://engineering.purdue.edu/Cetus/";
